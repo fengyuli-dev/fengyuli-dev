@@ -12,7 +12,7 @@
 - Python and some common data science libraries e.g. matplotlib, scikit-learn.
 - Swift, UIKit, SwiftUI, etc. iOS development bundle.
 - C++
-*updates pending*
+- *updates pending*
 # My GitHub Projects
 *under construction*
 <!---
