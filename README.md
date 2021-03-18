@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... Well, not sure yet. 
 - 📫 Here's how to reach me:
   - E-mail: fengyuli2002@gmail.com
-  - [My LinkedIn Profile](www.linkedin.com/in/fengyuli2002)
+  - [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli2002/)
 # My Skills
 - Java
 - Python and some common data science libraries e.g. matplotlib, scikit-learn.
