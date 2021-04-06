@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on ... Well, not sure yet. 
 - 📫 Here's how to reach me:
   - E-mail: fengyuli2002@gmail.com
+  - Education E-mail: fl334@cornell.edu
   - [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli2002/)
 # My Skills
 - Java
