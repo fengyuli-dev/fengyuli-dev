@@ -9,12 +9,17 @@
   - Education E-mail: fl334@cornell.edu
   - [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli2002/)
 # My Skills
-- Java
-- Python, including:
--- matplotlib
--- scikit-learn
-- Swift, UIKit, SwiftUI, etc. iOS development bundle.
 - C++
+- Java
+- Python, also:
+  - matplotlib
+  - numpy
+  - scikit-learn
+- Swift, also:
+  - UIKit
+  - SwiftUI
+  - Firebase cloud firestore
+- HTML and CSS
 - *updates pending*
 # My GitHub Projects
 *under construction*
