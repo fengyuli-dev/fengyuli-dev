@@ -12,8 +12,9 @@
 - C++
 - Java
 - Python, also:
-  - matplotlib
+  - pandas
   - numpy
+  - matplotlib
   - scikit-learn
 - Swift, also:
   - UIKit
