@@ -10,7 +10,9 @@
   - [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli2002/)
 # My Skills
 - Java
-- Python and some common data science libraries e.g. matplotlib, scikit-learn.
+- Python, including:
+-- matplotlib
+-- scikit-learn
 - Swift, UIKit, SwiftUI, etc. iOS development bundle.
 - C++
 - *updates pending*
