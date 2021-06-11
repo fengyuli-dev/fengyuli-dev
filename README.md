@@ -8,21 +8,9 @@
   - E-mail: fengyuli2002@gmail.com
   - Education E-mail: fl334@cornell.edu
   - [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli2002/)
-# My Skills
-- C++
-- Java
-- Python, also:
-  - pandas
-  - numpy
-  - matplotlib
-  - scikit-learn
-- Swift, also:
-  - UIKit
-  - SwiftUI
-  - Firebase cloud firestore
-- HTML and CSS
-- *updates pending*
-# My GitHub Projects
+  - [My Personal Website](https://fengyuli2002.github.io/)
+
+# My Projects
 *under construction*
 <!---
 fengyuli2002/fengyuli2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
