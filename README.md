@@ -1,6 +1,6 @@
-👋 Hi, I’m @fengyuli2002. My name's Li Fengyu.  
-🏫 I'm a first year CS student at Cornell University. I'll graduate in May 2025.  
-👀 I’m interested in a career in computer science.  
+👋 Hi, I’m Li Fengyu 李丰语.  
+✈️ From Wuhan => Ithaca.  
+🏫 I'm a first year CS student at Cornell University. Planned graduation in May 2025.    
 🌱 I’m currently learning computer science by taking a super hard course.  
 💞️ I’m looking to collaborate on ... Well, not sure yet.  
 
