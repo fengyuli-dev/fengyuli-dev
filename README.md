@@ -6,4 +6,4 @@
 
 #### For details about me, please navigate to:
 ##### ✨ [My Resume]()
-##### 🔖 [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli2002/)
+##### 🔖 [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli)
