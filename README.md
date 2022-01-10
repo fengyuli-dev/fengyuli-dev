@@ -6,5 +6,5 @@
 🎹 I'm a piano and classical music enthusiast. I should hopefully practice piano 40 hours a day.:thinking:
 
 #### For more about me, please have a look at:
-##### ✨ [My Resume](https://resume.creddle.io/resume/785ho7uujol)
+##### ✨ [My Resume](https://drive.google.com/file/d/1ks03CMRMGr-XKR8-qMVdnfSt7J6GiGYE/view?usp=sharing)
 ##### 🔖 [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli)
