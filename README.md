@@ -9,4 +9,4 @@
 ##### ✨ [My Academic Homepage](https://fengyuli2002.github.io)
 ##### 📝 My CV (under construction)
 ##### 🔖 [My LinkedIn Profile](https://www.linkedin.com/in/fengyuli)
-##### :checkered_flag: [My Kaggle Profile](https://www.kaggle.com/fengyuli2002)
+<!-- ##### :checkered_flag: [My Kaggle Profile](https://www.kaggle.com/fengyuli2002) -->
